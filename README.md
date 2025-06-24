@@ -2,7 +2,7 @@
 /**
  * UTS OOP Presentasi
  * Nama: Ajeng Saufika
- * NIM: [Masukkan NIM Anda]
+ * NIM: [2302010040006]
  * 
  * File: index.php
  * Berisi implementasi class parent dan 2 child class
